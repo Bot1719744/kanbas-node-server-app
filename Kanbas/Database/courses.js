@@ -1,4 +1,4 @@
-export default [[
+export default [
   {
     "_id": "RS101",
     "name": "Rocket Propulsion",
@@ -77,7 +77,6 @@ export default [[
     "description": "This course offers an exploration of the ancient languages and scripts found throughout Middle-earth, including Elvish (Sindarin and Quenya), Dwarvish (Khuzdul), and the Black Speech of Mordor. Students will learn the historical and cultural contexts of these languages, their linguistic structures, and their usage in various inscriptions and texts. Emphasis is on understanding the philological aspects and the role of language in shaping Middle-earth's history and lore.",
     "author": "654f9ec2ea7ead465908d1e3"
   }
-]
 ];
 
 

@@ -1,5 +1,5 @@
 export default [
-  [
+
     { "_id": "1", "user": "123", "course": "RS101" },
     { "_id": "2", "user": "234", "course": "RS101" },
     { "_id": "3", "user": "345", "course": "RS101" },
@@ -30,7 +30,7 @@ export default [
     { "_id": "22", "user": "123", "course": "RS107" },
     { "_id": "23", "user": "678", "course": "RS107" },
     { "_id": "24", "user": "567", "course": "RS107" }
-  ]
+
 
 ];
 

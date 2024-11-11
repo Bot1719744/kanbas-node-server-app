@@ -1,5 +1,5 @@
 export default [
-  [
+
     {
       "_id": "M101",
       "name": "Introduction to Rocket Propulsion",
@@ -286,6 +286,6 @@ export default [
       "description": "Study of the Black Speech of Mordor and its role in Middle-earth.",
       "course": "RS107"
     }
-  ]
+
 
 ];

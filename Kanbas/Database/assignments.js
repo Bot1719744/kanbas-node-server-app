@@ -1,5 +1,5 @@
 export default [
-  [
+  
     {
       "_id": "A101",
       "title": "Propulsion Assignment",
@@ -171,7 +171,7 @@ export default [
       "availableFrom": "2024-07-10",
       "availableUntil": "2024-07-25"
     }
-  ]
+  
 
 ];
 
