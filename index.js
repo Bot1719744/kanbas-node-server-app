@@ -8,6 +8,8 @@ import cors from "cors";
 import session from "express-session";
 import ModuleRoutes from "./Kanbas/Modules/routes.js";
 import EnrollmentRoutes from "./Kanbas/Enrollments/routes.js";
+import QuizRoutes from "./Kanbas/Quizzes/routes.js";
+import QuestionRoutes from "./Kanbas/Questions/routes.js";
 import "dotenv/config";
 import mongoose from "mongoose";
 
@@ -41,6 +43,8 @@ CourseRoutes(app);
 ModuleRoutes(app);
 AssignmentRoutes(app);
 EnrollmentRoutes(app);
+QuizRoutes(app);
+QuestionRoutes(app);
 Lab5(app);
 Hello(app);
 app.listen(process.env.PORT || 4000)
